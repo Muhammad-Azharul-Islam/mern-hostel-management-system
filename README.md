@@ -1,6 +1,6 @@
 # Hostel Management System
 
-A MERN stack application for hostel operations( Jamia Millia Islamia University, New Delhi) - student registration, authentication, complaints, and real-time chat.
+A MERN stack application for hostel(Jamia Millia Islamia University, New Delhi) operations - student registration, authentication, complaints, and real-time chat.
 
 ## Features
 - Student Registration & Authentication
@@ -56,10 +56,9 @@ cd client && npm start
 Visit `http://localhost:3000` to access the application.
 
 
-## 🔧 Troubleshooting
+## Troubleshooting
 - **MongoDB Connection**: Ensure MongoDB is running
 - **Port Issues**: Check if ports 3000/5000 are available
 - **Module Errors**: Run `npm install` in both directories
 
 ---
-**Happy Coding! 🚀** 
