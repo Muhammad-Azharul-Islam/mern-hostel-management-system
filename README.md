@@ -1,6 +1,6 @@
 # Hostel Management System
 
-A MERN stack application for hostel operations - student registration, authentication complaints, and real-time chat.
+A MERN stack application for hostel operations( Jamia Millia Islamia University, New Delhi) - student registration, authentication, complaints, and real-time chat.
 
 ## Features
 - Student Registration & Authentication
